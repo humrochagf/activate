@@ -7,7 +7,7 @@ Utility command to activate local Python venv located at the same folder of the 
 Clone this repository into the `custom/plugins` folder of your oh-my-zsh installation:
 
 ```shell
-git clone git@github.com:humrochagf/activate.git ~/.oh-my-zsh/custom/plugins/activate
+git clone https://github.com/humrochagf/activate.git ~/.oh-my-zsh/custom/plugins/activate
 ```
 
 Then refresh the shell with:
